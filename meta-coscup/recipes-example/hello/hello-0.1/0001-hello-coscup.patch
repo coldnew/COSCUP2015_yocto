@@ -1,7 +1,7 @@
-Index: 0.1-r0/helloworld.c
+Index: 0.1-r0/hello.c
 ===================================================================
---- 0.1-r0.orig/helloworld.c
-+++ 0.1-r0/helloworld.c
+--- 0.1-r0.orig/hello.c
++++ 0.1-r0/hello.c
 @@ -2,7 +2,7 @@
  
  int main(int argc, char **argv)
